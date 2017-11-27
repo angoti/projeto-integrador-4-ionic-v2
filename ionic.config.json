@@ -1,0 +1,12 @@
+{
+  "name": "sidemenu",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {},
+  "proxies": [
+    {
+      "path": "/cloudfoundry",
+      "proxyUrl": "https://gs-sts-cloud-foundry-deployment-angoti.cfapps.io"
+    }
+  ]
+}
