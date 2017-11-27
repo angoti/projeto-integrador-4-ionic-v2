@@ -11,7 +11,7 @@ import { ProdutosDeUmaCategoriaPage } from './../produtos-de-uma-categoria/produ
 })
 export class CategoriasPage {
 
-	categorias: Array<any>;
+	categorias: Object;
 
 	constructor(
 		public navCtrl: NavController, 
